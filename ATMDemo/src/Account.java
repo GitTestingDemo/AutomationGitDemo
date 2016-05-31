@@ -32,7 +32,7 @@ public class Account {
 	public String getName() {
 		return name;
 	}
-
+//ÉèÖÃÃû×Ö
 	public void setName(String name) {
 		this.name = name;
 	}
